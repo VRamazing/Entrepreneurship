@@ -33,5 +33,36 @@ This repository consists of a links of best blog posts, articles and Videos for 
     * [Why are contracts important?](http://yourbusiness.azcentral.com/contracts-important-business-5691.html)
  
 
+### Understanding Financial Basics
+1. Financial Statements, MIS and Financial KPIs
+    * [Making financial statements useful](https://www.entrepreneur.com/article/232864)
+    * [Management information systems (MIS)](https://www.inc.com/encyclopedia/management-information-systems-mis.html)
+    * [Business metrics every startup should observe](http://yfsmagazine.com/2013/04/27/key-performance-indicators-9-business-metrics-every-startup-should-watch/)
+    * [Measure performance and set targets](http://www.infoentrepreneurs.org/en/guides/measure-performance-and-set-targets/)
+
+2. Working Capital Management
+    * [How to determine your working capital needs](https://www.entrepreneur.com/article/225658)
+    * [Ensuring sustainability via WCM](https://yourstory.com/2012/04/startups-need-to-ensure-sustainability-via-working-capitalmanagement/)
+    * [Tips to managing working capital](http://www.entrepreneurshipinabox.com/7272/entrepreneurial-tips-to-managing-working-capital/)
+
+3. Financial Management and Long-Term Investments
+    * [Financial management](https://www.entrepreneur.com/article/21926)
+    * [Seven investment principles for investors](https://www.inc.com/karl-and-bill/7-investment-principles-for-entrepreneurs.html)
+   
+4. Capital Structure and Taxation
+    * [Debt vs Equity](https://www.entrepreneur.com/article/242859)
+    * [Choosing between debt and equity financing](https://www.entrepreneur.com/article/159518)
+    * [Debt vs. equity: Which is right for your startup?](https://venturebeat.com/2012/06/09/debt-vs-equity-which-is-right-for-your-startup/)
+    * [The capital structure of firms](https://corpgov.law.harvard.edu/2013/07/23/the-capital-structure-decisions-of-new-firms/)
+    * [Tax tips for entrepreneurs](https://www.entrepreneur.com/article/226128)
+    
+5. Capital Structure and Taxation
+    * [Break-even analysis-entrepreneur](https://www.entrepreneur.com/encyclopedia/break-even-analysis)
+    * [Conduction a break-even analysis](https://www.entrepreneur.com/article/73782)
+    * [How break-even analysis can help a new entrepreneur](http://smallbusiness.chron.com/can-breakeven-analysis-entrepreneur-planning-launch-business-48348.html)
+    
+ 
+   
+
 
  
