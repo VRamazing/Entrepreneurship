@@ -86,6 +86,28 @@ This repository consists of a links of best blog posts, articles and Videos for 
        * [How startup valuation works](https://blog.adioma.com/how-startup-valuation-works-infographic/)
        * [How does dilution affect your startup?](https://bothsidesofthetable.com/understanding-how-dilution-affects-you-at-a-startup-4fb4cd29ad5c)
        
+   ### Pitching & Termsheet
+   1. Investor Pitch
+      * [The perfect start-up pitch](http://mashable.com/2013/03/07/robert-scoble-perfect-startup-pitch/#yQ..mM9bOiqU)
+      * [The 5 best pitch tactics I heard as an angel investors](https://www.entrepreneur.com/article/244115)
+      * [Common mistakes start-ups make when pitching to investors](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/allbusiness/2014/08/20/28-common-mistakes-startups-make-when-pitching-to-investors/&refURL=&referrer=#72f468fa5ba3)
+
+   2. Components of a Pitch
+       * [5 elements of a perfect pitch](https://www.forbes.com/sites/carminegallo/2012/10/23/richard-bransons-5-elements-of-a-perfect-pitch/#42b0e9225ec6)
+       * [Start-up pitch presentation](http://mashable.com/2011/06/24/startup-pitch-presentation/#Ru5yjh4KqkqK)
+
+   3. Term Sheet and Post-Term Sheet
+       * [Term sheet explained](http://web.archive.org/web/20130303042811/http://www.foundersfund.com/uploads/term_sheet_explained.pdf)
+       * [Investor term sheet demands you don't have to fear](https://www.entrepreneur.com/article/250596)
+
+   4. Creating an Effective B-Plan: Part 3
+       * [ Financial projections in a business plan](https://www.thebalance.com/writing-a-business-plan-financial-projections-1200842)
+       * [Planning for shipping charges](https://www.entrepreneur.com/article/64726)
+       
+       
+       
+       
+       
 
 
 
