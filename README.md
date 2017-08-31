@@ -77,6 +77,15 @@ This repository consists of a links of best blog posts, articles and Videos for 
        * [ Financial projections in a business plan](https://www.thebalance.com/writing-a-business-plan-financial-projections-1200842)
        * [Planning for shipping charges](https://www.entrepreneur.com/article/64726)
        
+   ### Fund Raising and Valuation
+   1. Summary - Funding Overview
+       * [Funding ](http://fortune.com/2016/01/09/entrepreneurs-funding/)
+       * [Investment rounds for startups explained ](http://blog.onevest.com/blog/2015/4/23/startup-investment-101-investment-rounds-explained)
+   
+   2. Summary - Valuation
+       * [How startup valuation works](https://blog.adioma.com/how-startup-valuation-works-infographic/)
+       * [How does dilution affect your startup?](https://bothsidesofthetable.com/understanding-how-dilution-affects-you-at-a-startup-4fb4cd29ad5c)
+       
 
 
 
